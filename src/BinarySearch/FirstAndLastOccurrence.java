@@ -1,5 +1,6 @@
 package BinarySearch;
 
+//Binary Search 1.1
 public class FirstAndLastOccurrence {
 
     public static int firstOccurrence(int[] arr, int key) {
