@@ -1,5 +1,6 @@
 package BinarySearch;
 
+//This one is a basic of Binary
 public class BS1 {
 
     public static void main(String []args) {
